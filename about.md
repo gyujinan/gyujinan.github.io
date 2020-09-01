@@ -17,31 +17,33 @@ layout: page
 
 경력
 ---
-+InterON Corp. (시스템개발부 / 사원)
+InterON Corp. (시스템개발부 / 사원)
 
 	2018.12 ~ 2020.4
 	시스템 설계 및 개발
 
 
-+NSENSE Corp. (시스템운영부 / 사원)
+NSENSE Corp. (시스템운영부 / 사원)
 	2018.6 ~ 2018.11
 	시스템 설계 및 개발	
 	
 학력
 ---
-	#부산외국어
-	
 	
 	
 외국어
----
+--
 
+<ul class="skill-list">
+	<li>hello</li>
+	<li></li>
+</ul>
 
 기술
 ---
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li style="color:red">HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
