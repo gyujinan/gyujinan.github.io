@@ -20,7 +20,7 @@ layout: page
 	<ul class="skill-list">
 		
 	</ul>
-
+<span style="color:red">Red Text</span>
 <h2 style="color:bule">학력</h2>
 
 <h2 style="color:bule">외국어</h2>
